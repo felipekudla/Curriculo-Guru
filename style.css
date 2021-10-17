@@ -2,23 +2,46 @@
 	clear: both;
 }
 
+#top {
+	width: 50%;
+	background-color: #f3f3f3;
+}
+
+body {
+font-family: Arial;
+}
+
 #headshot {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
 }
 
+#foto {
+	border-radius: 50%;
+}
+
 #name {
 	float: left;
 }
 
+.h2 {
+color: #444444;
+}
+
+.mainDetails {
+}
+
 #contactDetails {
 	float: right;
+	color: #181818;
 }
 
 .sectionTitle {
 	float: left;
 	width: 25%;
+	font-family: Helvetica;
+	color: #cf8a05;
 }
 
 .sectionContent {
